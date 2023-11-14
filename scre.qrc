@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/doodle_icon.png</file>
+        <file>Images/doodle_ninja2.png</file>
+        <file>Images/platform.png</file>
+        <file>Images/bg_cells.png</file>
+        <file>Images/platform-spring.png</file>
+        <file>Images/spring.png</file>
+        <file>Images/spring_comp.png</file>
+        <file>Images/doodle_ninja.png</file>
+        <file>Images/doodle_classic.png</file>
+        <file>Images/doodle_classic2.png</file>
+        <file>Images/doodle_ghost.png</file>
+        <file>Images/doodle_ghost2.png</file>
+        <file>Images/doodle_woman.png</file>
+        <file>Images/doodle_woman2.png</file>
+        <file>Images/doodle_cosmonaut.png</file>
+        <file>Images/doodle_jungle.png</file>
+        <file>Images/doodle_jungle2.png</file>
+        <file>Images/doodle_cosmonaut2.png</file>
+    </qresource>
+</RCC>

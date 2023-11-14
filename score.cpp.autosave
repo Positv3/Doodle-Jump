@@ -1,0 +1,19 @@
+#include "score.h"
+
+Score::Score()
+{
+    points = 0;
+
+}
+
+
+QGraphicsTextItem *Score::createTextItem(QString text, int fontSize, QColor textColor, QGraphicsItem *parent)
+{
+    QGraphicsTextItem* textItem = new QGraphicsTextItem(text,parent);
+    QFont titleFont("avenir", fontSize);
+
+    textItem->setDefaultTextColor(textColor);
+    textItem->setFont(titleFont);
+
+    return textItem;
+}
